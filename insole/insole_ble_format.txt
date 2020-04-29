@@ -1,0 +1,21 @@
+﻿
+====================
+// device -> app (data format)
+
+
+***Left Device Bluetooth
+{
+  "Type":[0],
+  "Pressure":[0,0,0,0,0,0,0,0,0],
+  "Cop":[0,0],
+  "Temper":[0,0,0,0,0]
+}
+
+***Right Device Bluetooth
+{
+  "Type":[1],
+  "Pressure":[0,0,0,0,0,0,0,0,0],
+  "Cop":[0,0],
+  "Temper":[0,0,0,0,0]
+}
+====================
